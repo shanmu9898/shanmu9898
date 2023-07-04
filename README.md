@@ -1,6 +1,6 @@
 # 🚀 Hey, I'm Mukesh Gadupudi! 👋 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=$shanmu9898)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmu9898" alt="shanmu9898" /> </p>
 
 ## 🧑‍💻 About Me
 
