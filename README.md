@@ -65,4 +65,8 @@
 
 > 🎉 Thanks for stopping by and hope we connect soon!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanmu9898&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<details>
+  <summary>Github Profile Stats. Need to work more on my Indie Projects 😭</summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanmu9898&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
+
